@@ -1,0 +1,2 @@
+C:\Users\cjsbe\source\repos\FieldDayTeacher\x64\Debug\FieldDayTeacher.exe
+C:\Users\cjsbe\source\repos\FieldDayTeacher\x64\Debug\FieldDayTeacher.pdb
